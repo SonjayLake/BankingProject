@@ -1,0 +1,35 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+    import java.util.Arrays;
+
+    public class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            int[] arr = {scanner.nextInt(), scanner.nextInt(), scanner.nextInt()};
+            // write your code here
+
+            System.out.println(/* Print the sorted array here */);
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19373#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    13 8 5
+    Correct output:
+    [5, 8, 13]
+
+    Your code output:
+    [I@682a0b20
+  time: "Mon, 16 Jan 2023 20:30:08 UTC"
+record: -1

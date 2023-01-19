@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Banking_System1.Simple_Banking_System-task-build-classes-java.main" target="11" />
+      <module name="Simple_Banking_System1.Simple_Banking_System-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Banking_System1.Simple_Banking_System-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Banking_System1.Simple_Banking_System-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Banking_System1.Simple_Banking_System-task-build-test-results.main" target="11" />
+      <module name="Simple_Banking_System1.Simple_Banking_System-task-build-tmp.main" target="11" />
+      <module name="Simple_Banking_System1.Simple_Banking_System-task-out.main" target="11" />
+      <module name="Simple_Banking_System1.Simple_Banking_System-task.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Errors_in_programs-Fix_the_program.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Errors_in_programs-Theory.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Getters_and_setters-Account.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Getters_and_setters-Book.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Getters_and_setters-Choose_a_pair_of_getter_and_setter.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Getters_and_setters-Getting_the_fullname.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Getters_and_setters-The_name_of_setter.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Getters_and_setters-Theory.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Hierarchy_of_exceptions-BadRequestException.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Hierarchy_of_exceptions-Base_classes_of_RuntimeException.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Hierarchy_of_exceptions-Theory.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Hierarchy_of_exceptions-Unchecked_exceptions.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Hierarchy_of_exceptions-UncheckedException.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-java.util.Arrays-Array_sorting.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-java.util.Arrays-Theory.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Multidimensional_array-Create_cube.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Multidimensional_array-Multidimensional_array_features.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Multidimensional_array-Practical_applications.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Multidimensional_array-Rotate_a_rectangle_array.main" target="11" />
+      <module name="Simple_Banking_System1.Topics-Multidimensional_array-Theory.main" target="11" />
+      <module name="Simple_Banking_System1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
